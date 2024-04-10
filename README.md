@@ -1,3 +1,1 @@
 # Collector Game
- 
-yay
