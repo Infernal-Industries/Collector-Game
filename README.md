@@ -1,1 +1,2 @@
 # Collector Game
+thank you
